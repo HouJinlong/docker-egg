@@ -31,4 +31,4 @@ COPY . /usr/src/node-app/egg-santak
 EXPOSE 7001
 
 # 启动node应用
-CMD npm start
+CMD npm run dev
